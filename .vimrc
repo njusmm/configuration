@@ -55,3 +55,7 @@ set shiftwidth=4
 "set autoindent
 set nu
 "autocmd FileType python set expandtab | set softtabstop=4
+
+"Taglist
+let Tlist_WinWidth=20   "Taglist Window width
+let Tlist_OnlyWindow=1  "Exit if taglist is the last window exists

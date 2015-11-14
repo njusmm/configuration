@@ -26,7 +26,6 @@ Plugin 'VundleVim/Vundle.vim'
 " Avoid a name conflict with L9
 "Plugin 'user/L9', {'name': 'newL9'}
 
-Plugin 'c.vim'
 Plugin 'syntastic'
 Plugin 'taglist.vim'
 Plugin 'supertab'

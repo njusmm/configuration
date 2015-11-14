@@ -26,7 +26,6 @@ Plugin 'VundleVim/Vundle.vim'
 " Avoid a name conflict with L9
 "Plugin 'user/L9', {'name': 'newL9'}
 
-Plugin 'c.vim'
 Plugin 'syntastic'
 Plugin 'taglist.vim'
 Plugin 'supertab'
@@ -58,4 +57,4 @@ set nu
 
 "Taglist
 let Tlist_WinWidth=20   "Taglist Window width
-let Tlist_OnlyWindow=1  "Exit if taglist is the last window exists
+let Tlist_Exit_OnlyWindow=1  "Exit if taglist is the last window exists

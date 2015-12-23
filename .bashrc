@@ -113,4 +113,4 @@ if ! shopt -oq posix; then
   fi
 fi
 
-PS1='\[\e[32;1m\]\u@\h: \W\a\$ \e[0m'
+PS1='\[\e[32;1m\]\u:\W\a\$ \e[0m'

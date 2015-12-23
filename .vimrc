@@ -26,7 +26,7 @@ Plugin 'VundleVim/Vundle.vim'
 " Avoid a name conflict with L9
 "Plugin 'user/L9', {'name': 'newL9'}
 
-Plugin 'syntastic'
+"Plugin 'syntastic'
 Plugin 'taglist.vim'
 Plugin 'supertab'
 
@@ -46,7 +46,8 @@ filetype plugin indent on    " required
 " Put your non-Plugin stuff after this line
 
 
-colorscheme koehler
+colorscheme murphy
+set guifont=Monospace\ 18
 set tabstop=4
 "set expandtab
 set shiftwidth=4

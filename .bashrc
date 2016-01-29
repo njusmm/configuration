@@ -113,3 +113,5 @@ if ! shopt -oq posix; then
   fi
 fi
 
+# R packages' default install path
+export R_LIBS="/home/mitshan/.Rpackage/x86_64-pc-linux-gnu-library/3.2"

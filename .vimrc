@@ -46,7 +46,7 @@ filetype plugin indent on    " required
 " Put your non-Plugin stuff after this line
 
 
-colorscheme murphy
+colorscheme koehler
 set guifont=Monospace\ 18
 set tabstop=4
 "set expandtab
